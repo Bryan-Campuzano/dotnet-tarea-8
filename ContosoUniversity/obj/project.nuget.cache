@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "12pNADdJuKDvdQ0rU9LlMqad65hlp1J+RcYgBf4kE0bwxoS4SbmtAvplWJ5JFSOPyjAGpyl9oX5J/tflVHi9Hw==",
+  "success": true,
+  "projectFilePath": "/home/bryan/Descargas/NetTarea8/ContosoUniversity/ContosoUniversity.csproj",
+  "expectedPackageFiles": [
+    "/home/bryan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
